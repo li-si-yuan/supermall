@@ -24,15 +24,15 @@ export default {
   display: flex;
   height: 44px;
   line-height: 44px;
+  text-align: center;
+  background-color: #ff8e98;
 }
 
 .left, .right {
   width: 60px;
-  background-color: red;
 }
 
 .center {
   flex: 1;
-  background-color: black;
 }
 </style>
