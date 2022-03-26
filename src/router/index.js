@@ -9,6 +9,8 @@ const ShopCart = () =>
     import ('../views/shopcart/ShopCart.vue')
 const Profile = () =>
     import ('../views/profile/Profile')
+const Detail = () =>
+    import ('views/detail/Detail.vue')
 
 
 
@@ -36,6 +38,10 @@ const router = new Router({
         {
             path: '/profile',
             component: Profile
+        },
+        {
+            path: '/detail/:iid',
+            component: Detail
         }
     ]
 })
