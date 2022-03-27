@@ -39,7 +39,7 @@ import {
   getHomeMultidata,
   getHomeGoods
   } from 'network/home'
-import {debounce} from '../../commom/utils'
+import {debounce} from 'common/utils'
 
 import Scroll from 'components/common/scroll/Scroll.vue'
 
@@ -96,7 +96,7 @@ export default {
     this.$refs.swiper
 
     const refresh = debounce(this.$refs.scroll.refresh,500)
-      this.$bus.$on('ItemImageLoad',() => {
+      this.$bus.$on('homeItemImageLoad',() => {
         refresh()
 })
   },
