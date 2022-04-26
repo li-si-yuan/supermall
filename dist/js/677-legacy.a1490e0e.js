@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksupermall"]=self["webpackChunksupermall"]||[]).push([[677],{677:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h2",[e._v("李思源")])])}],u={name:"Profile",components:{}},c=u,s=t(1001),a=(0,s.Z)(c,r,l,!1,null,"40abdc32",null),f=a.exports}}]);
+//# sourceMappingURL=677-legacy.a1490e0e.js.map

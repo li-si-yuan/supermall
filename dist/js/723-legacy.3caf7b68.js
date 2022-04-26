@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksupermall"]=self["webpackChunksupermall"]||[]).push([[723],{8723:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var l=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("h2",[e._v("购物车")])},r=[],t={name:"Cart"},a=t,s=u(1001),c=(0,s.Z)(a,l,r,!1,null,"12d09fb6",null),f=c.exports}}]);
+//# sourceMappingURL=723-legacy.3caf7b68.js.map
